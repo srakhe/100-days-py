@@ -1,0 +1,5 @@
+Passwords:
+    Level 1 ENCRYPTION
+    Level 2 CYPHER
+    Level 3 HASH => Modern Computers can hack fast
+    Level 4 HASH + SALT => Faster computers can be tackled with more rounds of salting!

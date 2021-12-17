@@ -1,0 +1,68 @@
+Understand colour moods and what to use where.
+    For example,
+        Yellow grabs attention.
+        Green is for edible things, food vendors use this.
+        Blue is for trust and stability, banks and crypto vendors use this.
+
+https://color.adobe.com/create/color-wheel.
+    Use this to find what colour scheme to use.
+    Use monochromatic for, say navigation bars and buttons.
+    Use complementary for attention grabbing things. => Do NOT use this on text and text background, only logos!
+
+Also use:
+    https://colorhunt.co/
+
+Fonts matter!
+    Broad classes: Serif
+
+    Serif has feet under each letter since it was used on stones using carving.
+        Serif looks more authoritative and old timer.
+        Should be used on things such as formal letters, etc.
+            => Old Style, Transitional, Modern
+
+    Serif moods:
+        Serif = Traditional, Stable, Respectable.
+        Sans-serif = Sensible, Simple, Straightforward.
+        Script = Personal, Creative, Elegant.
+        Display = Friendly, Loud, Amusing.
+        Modern = Stylish, Chic, Smart.
+
+        Sans Serif is more readable. [Humanist]
+
+    Stick to 2 fonts/ website. They should have similar moods and time era.
+    Use weights!
+    Serifness is important.
+
+UI Design:
+    Hierarchies:
+        Colours!
+        Use dimmer colours for less important things on the page.
+        Size matters when it comes to hierarchy!
+
+    Layout:
+        40 - 60 chars/line
+        Alignment: Has to be consistent!
+        Reduce the number of grid lines that are used for alignment!
+        Simplicity is the key! Inject whitespace between different content!
+        Design should fit the audience.
+
+UX Design:
+    Ease of use:
+        As in the example of pavements on a lawn at a university, the UX should've taken over the Design.
+        UX should make things easier for the user and not let the design hinder the ease-of-use!
+
+    Simplicity:
+        Design should be consistent. For example, navigation bars shouldn't change positions on different parts of the website.
+        The user will have to re-learn everything.
+
+    Reading Patterns:
+        Use F layout
+        Or Z pattern (depends if page has video/image)
+
+    No too many warnings, banners or cookie popups!
+
+    Scaling:
+        Website should scale well in both cases,
+            when going from big screen to small and visa-versa!
+
+    Avoid dark patterns! [Trickery]

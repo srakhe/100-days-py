@@ -1,0 +1,16 @@
+Similar to CRUD in databases:
+    Create
+    Read
+    Update
+    Delete.
+
+We have methods in REST:
+    GET
+    POST
+    PUT / PATCH (new)
+    DELETE.
+
+Other types include SOAP, GraphQL, etc.
+
+For API to be RESTful, it should follow a pattern (Specific set of rules!)
+

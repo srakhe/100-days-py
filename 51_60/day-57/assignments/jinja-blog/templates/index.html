@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sam</title>
+</head>
+<body>
+<a href="{{url_for('blog_page', something='get some')}}">Go to Blog</a>
+<h1>Blog</h1>
+{% for each_blog in blogs: %}
+{% if each_blog['id']==2: %}
+<h2>{{each_blog['title']}}</h2>
+<h3>{{each_blog['subtitle']}}</h3>
+<p>{{each_blog['body']}}</p>
+{% endif %}
+{% endfor %}
+</body>
+</html>

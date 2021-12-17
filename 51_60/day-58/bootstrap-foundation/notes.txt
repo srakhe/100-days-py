@@ -1,0 +1,19 @@
+Stuff to remember in bootstrap:
+
+# Rows and columns (grids):
+<div class="row">
+    <div class="col-md-6">
+This will create a row with a column that covers half of the row.
+1 row has 12 parts and the col-md-6 denotes 6/12 parts covered.
+
+# Containers:
+# 2 types: Simple Container and Fluid Container
+
+Simple container jumps in sizes whereas the fluid container always occupies 100% of the screen!
+
+<div class="container-fluid">
+
+# Buttons:
+https://getbootstrap.com/docs/4.5/components/buttons/
+
+# Carousel

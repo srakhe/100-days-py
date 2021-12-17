@@ -1,0 +1,11 @@
+{
+  "USA": {
+    "price": 400,
+    "country_from": "Germany",
+    "country_to": "USA",
+    "duration": 32,
+    "seats": 1,
+    "departure": "2021-03-07",
+    "arrival": "2021-03-09"
+  }
+}

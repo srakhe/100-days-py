@@ -1,0 +1,44 @@
+body {
+  background-color: #ffd460;
+  color: #2d4059;
+}
+
+img {
+  border-radius: 100%
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #ea5455;
+  width: 10%
+}
+
+h1 {
+  color: #ea5455;
+}
+
+h3 {
+  color: #ea5455;
+}
+
+h4 {
+  color: #ea5455;
+}
+
+strong {
+  color: #ea5455;
+}
+
+a {
+  color: #ea5455
+}
+
+.skills {
+  background-color: #ea5455
+}
+
+#nameHead {
+  color: #2d4059
+}
